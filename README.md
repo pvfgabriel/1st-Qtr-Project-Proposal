@@ -6,7 +6,7 @@ Description: "Your mental health matters", always remember that. We were stuck a
 
 Homepage: This contains the title, description, and images to click that lead to the other web pages. There will also be a colored background. 
 
-Sharing time!: This page contains personal experiences, inspiring quotes, interesting information, and other relatable "stuff" regarding mental health. It will also have images at the right side and the image to click leading to the next web page. 
+Sharing time!: This page contains personal experiences and inspiring quotes. It will also have images at the right side and the image to click leading to the next web page. 
 
 Play with your mind: The web page contains mind exercises for my readers, and tips and advice about anxiety. There will also be images at the bottom and an image to click leading to the next web page. 
 
