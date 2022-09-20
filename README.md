@@ -2,7 +2,7 @@
 
 Title: Valuing your well-being
 
-Description: "Your mental health matters", always remember that. We were stuck at home and needed to adjust to the online set-up for the past 2 years. There were so-called online classes or the new mode of learning that stressed many of us, including me. Too much stress can cause anxiety and depression, which is bad for a person who is growing and studying, a.k.a the students. As someone who also experienced anxiety because of my studies, I know how you feel. To help you feel better, read and explore more this website to see experiences, thoughts, and advice regarding mental healh :D 
+Description: "Your mental health matters", always remember that. We were stuck at home and needed to adjust to the online set-up for the past 2 years. There were so-called online classes or the new mode of learning that stressed many of us, including me. Too much stress can cause anxiety and depression, which is bad for a person who is growing and studying, a.k.a the students. As someone who also experienced anxiety because of my studies, I know how you feel. To help you feel better, read and explore more this website to see experiences, thoughts, and advice regarding mental health :D 
 
 Homepage: This contains the title, description, and images to click that lead to the other web pages. There will also be a colored background. 
 
