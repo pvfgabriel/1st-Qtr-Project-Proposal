@@ -20,3 +20,29 @@ p {
   text-align: justify;
   font-weight: bold;
   color: #A52A2A;
+}
+.tweet{
+  width: 300px;
+  height: 400px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+.image{
+  width: 400px;
+  height: 400px;
+  border: none;
+  margin-right: -200px;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+.rest{
+  margin-right: -10px;
+  margin-top: -20px;
+  border: none;
+}
+.tips{
+  border: none;
+  width: 420px;
+  height: 410px;
+}
